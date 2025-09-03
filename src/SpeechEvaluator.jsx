@@ -1,5 +1,5 @@
 import React, { useState, useRef } from "react";
-import { RadarChart, PolarGrid, PolarAngleAxis, Radar, Tooltip, Legend } from "recharts";
+import { RadarChart, PolarGrid, PolarAngleAxis, Radar, Tooltip } from "recharts";
 import "./SpeechEvaluator.css"; // We'll create this CSS file
 
 function SpeechEvaluator() {
